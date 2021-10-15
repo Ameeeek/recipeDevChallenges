@@ -17,6 +17,9 @@ module.exports = {
       },
       screens:{
         'hp':{'max': '858px'},
+      },
+      colors: {
+        primary: "#F2994A",
       }
     },
   },
