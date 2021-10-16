@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.title-container, .ingredients-title-container{
+    font-family:'playfair display', sans;
+    font-weight: 700;
+}
+.ingredients-checkbox{
+    font-family:'montserrat', sans;
+    font-weight: 400;
+}
