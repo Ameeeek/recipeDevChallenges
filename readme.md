@@ -28,7 +28,7 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-      [HTML, TAILWINDCSS AND DAISYUI]
+      [HTML, TAILWINDCSS AND DAISYUI](#built-with)
 
       
 
@@ -52,7 +52,7 @@
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
+FRAMEWORK THAT I USE
 - [TailwindCSS]
       [DaisyUI]
       
