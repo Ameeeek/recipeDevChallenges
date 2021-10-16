@@ -12,3 +12,7 @@
     font-family:'montserrat', sans;
     font-weight: 400;
 }
+.ingredients-container{
+    display:flex;
+    flex-direction:row;
+}
