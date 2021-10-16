@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://interiorconsultantamek.netlify.app/">
+    <a href="https://fervent-johnson-6351fc.netlify.app/">
       Demo
     </a>
    <span> | <span>
-      <a href="https://devchallenges.io/solutions/cYwTdwiC7AtDj68svGP4">
+      <a href="https://devchallenges.io/solutions/7g7oaOzpT4ZI9lzdjwPw">
          solution
       </a>
    <span> | <span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
@@ -28,7 +28,7 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-      HTML and TailwindCss
+      [HTML, TAILWINDCSS AND DAISYUI]
 
       
 
@@ -36,12 +36,12 @@
 
 ## Overview
 
-<img src='screely-1633599435825.png'>
+<img src='screely-1634366155609.png'>
 
 
 
 - Where can I see your demo?
-      on interiorconsultantamek.netlify.app
+      on https://fervent-johnson-6351fc.netlify.app/
 - What was your experience?
       it was fun
 - What have you learned/improved? 
@@ -53,8 +53,9 @@
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [how to make hamburger button](https://www.youtube.com/watch?v=1iS0r238G4g&t=476s)
-
+- [TailwindCSS]
+      [DaisyUI]
+      
 ## Contact
 
 - Twitter [@Ameeeekk](https://twitter.com/Ameeeekk})
