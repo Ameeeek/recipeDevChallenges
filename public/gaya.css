@@ -16,3 +16,10 @@
     display:flex;
     flex-direction:row;
 }
+@media (max-width:858px){
+    .ingredients-container{
+        display:flex;
+        flex-direction: column;
+        margin: 0;
+    }
+}
